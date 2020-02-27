@@ -1,0 +1,11 @@
+C:\Users\Lovish Grover\source\repos\Average Units By Employee\Average Units By Employee\bin\Debug\Average Units By Employee.exe.config
+C:\Users\Lovish Grover\source\repos\Average Units By Employee\Average Units By Employee\bin\Debug\Average Units By Employee.exe
+C:\Users\Lovish Grover\source\repos\Average Units By Employee\Average Units By Employee\bin\Debug\Average Units By Employee.pdb
+C:\Users\Lovish Grover\source\repos\Average Units By Employee\Average Units By Employee\bin\Debug\Average Units By Employee.xml
+C:\Users\Lovish Grover\source\repos\Average Units By Employee\Average Units By Employee\obj\Debug\Average Units By Employee.vbprojAssemblyReference.cache
+C:\Users\Lovish Grover\source\repos\Average Units By Employee\Average Units By Employee\obj\Debug\Average_Units_By_Employee.AverageUnitsByEmployee.resources
+C:\Users\Lovish Grover\source\repos\Average Units By Employee\Average Units By Employee\obj\Debug\Average_Units_By_Employee.Resources.resources
+C:\Users\Lovish Grover\source\repos\Average Units By Employee\Average Units By Employee\obj\Debug\Average Units By Employee.vbproj.GenerateResource.cache
+C:\Users\Lovish Grover\source\repos\Average Units By Employee\Average Units By Employee\obj\Debug\Average Units By Employee.exe
+C:\Users\Lovish Grover\source\repos\Average Units By Employee\Average Units By Employee\obj\Debug\Average Units By Employee.xml
+C:\Users\Lovish Grover\source\repos\Average Units By Employee\Average Units By Employee\obj\Debug\Average Units By Employee.pdb
